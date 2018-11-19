@@ -1,0 +1,23 @@
+.features {
+  padding: 50px 50px;
+  background-color: #EEEEEF;
+  display: flex;
+  align-items: flex-end;
+}
+.features__item {
+  text-align: center;
+}
+.features__heading {
+  text-transform: uppercase;
+  color: #000;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 900;
+  border-bottom: 2px solid #E9E9EA;
+  padding-bottom: 20px;
+  margin: 30px 20%;
+}
+.features__item-paragraph {
+  color: #d3d3d3;
+  font-family: 'PT Sans', sans-serif;
+  line-height: 30px;
+}
