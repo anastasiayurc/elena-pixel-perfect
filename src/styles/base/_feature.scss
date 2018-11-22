@@ -1,0 +1,28 @@
+.features {
+  padding-top: 48px;
+  padding-right: 93px;
+  padding-bottom: 60px;
+  padding-left: 93px;
+  background-color: #EEEEEF;
+  display: flex;
+  align-items: flex-end;
+}
+.features__item {
+  text-align: center;
+}
+.features__heading {
+  text-transform: uppercase;
+  color: #000;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 900;
+  border-bottom: 2px solid #E9E9EA;
+  padding-bottom: 9px;
+  margin: 30px 20%;
+  font-size: 15px;
+}
+.features__item-paragraph {
+  color: #787B80;
+  font-family: 'PT Sans', sans-serif;
+  line-height: 24px;
+  font-size: 14px;
+}

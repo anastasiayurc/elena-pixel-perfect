@@ -1,0 +1,14 @@
+@import 'base/base';
+@import 'base/connect';
+@import 'base/feature';
+@import 'base/footer';
+@import 'base/header';
+@import 'base/just-for-you';
+@import 'base/supported';
+@import 'base/templates';
+
+$body-color: blue;
+
+body {
+  color: $body-color;
+}
